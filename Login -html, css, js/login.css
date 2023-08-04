@@ -1,0 +1,23 @@
+body,
+html {
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-image: url("https://images5.alphacoders.com/131/1318408.png");
+    background-color: #d26f6f;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.btn-login:hover {
+    box-shadow: 2px 2px 5px 2px rgb(44, 61, 211);
+}
+
+header {
+    background-image: url("https://images5.alphacoders.com/131/1318408.png");
+    background-color: #d26f6f;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
